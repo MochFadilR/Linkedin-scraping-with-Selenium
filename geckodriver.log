@@ -1,0 +1,326 @@
+1609166211929	geckodriver	INFO	Listening on 127.0.0.1:55081
+1609166215016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilekujfbc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1609166218227	Marionette	INFO	Listening on port 55089
+1609166218732	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1609167260849	Marionette	INFO	Stopped listening on port 55089
+1609167265220	geckodriver	INFO	Listening on 127.0.0.1:55412
+1609167268287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilerJUGQc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609167271826	Marionette	INFO	Listening on port 55420
+1609167271979	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1609167346193	Marionette	INFO	Stopped listening on port 55420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609167350939	geckodriver	INFO	Listening on 127.0.0.1:55525
+1609167353971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofile97CgGe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609167357455	Marionette	INFO	Listening on port 55534
+1609167357676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1609170737871	Marionette	INFO	Stopped listening on port 55534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609214423832	geckodriver	INFO	Listening on 127.0.0.1:62277
+1609214426877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileS7PfMV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609214430349	Marionette	INFO	Listening on port 62307
+1609214430564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.linkedin.com&rpcToken=815279193.6348385&clearCache=1, line 1: ReferenceError: lso is not defined
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+1609214499503	Marionette	INFO	Stopped listening on port 62307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609214508005	geckodriver	INFO	Listening on 127.0.0.1:62879
+1609214511053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilelp4nue"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609214514599	Marionette	INFO	Listening on port 62905
+1609214514745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1609214525171	Marionette	INFO	Stopped listening on port 62905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609214534977	geckodriver	INFO	Listening on 127.0.0.1:63094
+1609214538028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilelwHAwM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609214541521	Marionette	INFO	Listening on port 63124
+1609214541713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+1609214736970	Marionette	INFO	Stopped listening on port 63121609214737699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofile7NhoOV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609214741044	Marionette	INFO	Listening on port 64397
+1609214741389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+1609214867700	Marionette	INFO	Stopped listening on port 64391609214868089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileC2EIGm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609214871221	Marionette	INFO	Listening on port 65260
+1609214871267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1609214957205	Marionette	INFO	Stopped listening on port 65260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609226597428	geckodriver	INFO	Listening on 127.0.0.1:54690
+1609226600486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileBN9vsU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609226603968	Marionette	INFO	Listening on port 54713
+1609226604168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609229457282	Marionette	INFO	Stopped listening on port 54713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609247432574	geckodriver	INFO	Listening on 127.0.0.1:54668
+1609247435642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilemnjrva"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609247439294	Marionette	INFO	Listening on port 54678
+1609247439352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.linkedin.com&rpcToken=1158534620.448825&clearCache=1, line 1: ReferenceError: lso is not defined
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.id.79q4WXXHjA8.es5.O/am=UA/d=1/excm=_b,_tp,appwidgetnoauthview/ed=1/dg=0/wt=2/ct=zgms/rs=AM-SdHuZjL1VThYvVUGdxOadLgxu617IBg/m=_b,_tp, line 428: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.id.79q4WXXHjA8.es5.O/am=UA/d=1/excm=_b,_tp,appwidgetnoauthview/ed=1/dg=0/wt=2/ct=zgms/rs=AM-SdHuZjL1VThYvVUGdxOadLgxu617IBg/m=_b,_tp, line 428: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609247571679	Marionette	INFO	Stopped listening on port 54678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609247753531	geckodriver	INFO	Listening on 127.0.0.1:56288
+1609247756577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilevZiFys"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609247760144	Marionette	INFO	Listening on port 56318
+1609247760286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.linkedin.com&rpcToken=833511033.4451252&clearCache=1, line 1: ReferenceError: lso is not defined
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+[Child 18908, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1609247831368	Marionette	INFO	Stopped listening on port 56318
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609247942848	geckodriver	INFO	Listening on 127.0.0.1:57571
+1609247945908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileUo1koq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609247949217	Marionette	INFO	Listening on port 57594
+1609247949581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+[Child 8776, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1609248083656	Marionette	INFO	Stopped listening on port 57594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24644, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1609248090638	geckodriver	INFO	Listening on 127.0.0.1:58632
+1609248093673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileCt7WxJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609248097201	Marionette	INFO	Listening on port 58653
+1609248097383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf, line 3001: Script terminated by timeout at:
+r@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:3001:27
+create@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:719:3
+@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5103:9
+evaluate@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:4839:13
+evaluateSyscall@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5370:61
+evaluateInner@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5362:123
+evaluateOuter@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5362:44
+next@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5726:25
+execute@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5725:19
+handleException@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5509:3
+handleException@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5553:73
+throw@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5494:182
+evaluate@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:4978:76
+execute@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5494:12
+rerender@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5557:34
+Lt/this.render/this.render@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:800:20
+_renderRoots@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:850:31
+_renderRootsTransaction@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:854:10
+_revalidate@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:858:244
+invokeWithOnError@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5987:189
+flush@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5971:20
+flush@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:5999:52
+_end@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:6101:9
+end@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:6048:6
+_run@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:6108:57
+_join@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:6106:74
+join@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:6060:13
+h@https://static-exp1.licdn.com/sc/h/2p04274v4btc9m0bubd707hxf:3930:23
+didInsertElement/this.viewportObserver</</<@https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci:28013:124
+d/<@https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci:11482:1
+t@https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci:11473:1
+
+1609248187678	Marionette	INFO	Stopped listening on port 58653
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609248191144	geckodriver	INFO	Listening on 127.0.0.1:59370
+1609248194181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileaFbUc7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609248197683	Marionette	INFO	Listening on port 59391
+1609248197875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.linkedin.com&rpcToken=234508364.61091015&clearCache=1, line 1: ReferenceError: lso is not defined
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+[Child 25360, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1609248559004	Marionette	INFO	Stopped listening on port 59391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609248562469	geckodriver	INFO	Listening on 127.0.0.1:61598
+1609248565536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilexyDYgH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609248568727	Marionette	INFO	Listening on port 61627
+1609248569251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+1609249069290	Marionette	INFO	Stopped listening on port 61627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofilepQGgOH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609248838402	Marionette	INFO	Listening on port 63260
+1609248838567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609249762742	Marionette	INFO	Stopped listening on port 63260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609249766943	geckodriver	INFO	Listening on 127.0.0.1:65395
+1609249770000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofileuCwE2M"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609249773539	Marionette	INFO	Listening on port 65418
+1609249773705	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: uncaught exception: Object
+1609253471195	Marionette	INFO	Stopped listening on port 65418
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609253931728	geckodriver	INFO	Listening on 127.0.0.1:63462
+1609253934755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MochF\\AppData\\Local\\Temp\\rust_mozprofile9XNl59"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609253937882	Marionette	INFO	Listening on port 63479
+1609253937958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609253945659	Marionette	INFO	Stopped listening on port 63479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
